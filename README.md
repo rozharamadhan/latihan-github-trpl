@@ -1,16 +1,16 @@
 # Latihan GitHub TRPL
 
-Repository ini dibuat sebagai latihan penggunaan GitHub  
-oleh mahasiswa D4 Teknologi Rekayasa Perangkat Lunak  
+Repository ini dibuat sebagai latihan penggunaan GitHub
+oleh mahasiswa D4 Teknologi Rekayasa Perangkat Lunak
 Politeknik Citra Widya Edukasi.
 
 ## Tujuan
 - Belajar GitHub
-- Belajar upload project
+- Belajar version control
 - Persiapan portofolio
 
-## Teknologi
-- Belum ada (masih tahap belajar)
+## Status
+Masih tahap pembelajaran.
 
 ## Author
-Rozha
+Rozha Ramadhan
