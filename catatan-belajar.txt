@@ -1,1 +1,4 @@
-
+Hari ini belajar:
+- Membuat repository
+- Edit README
+- Upload file
